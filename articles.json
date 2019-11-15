@@ -1,8 +1,15 @@
 [
 	{
-		"title": "[推荐]编辑指南",
+		"title": "[推荐]✏️编辑指南",
 		"article_link": "https://www.jianshu.com/p/6984b47eb52f",
-		"image_link": "https://raw.githubusercontent.com/yeseni-today/mematom-resources/master/images/logo.png"
+		"image_link": "https://raw.githubusercontent.com/yeseni-today/mematom-resources/master/images/edit-image.png"
+	},
+	
+	{
+			"title": "👏欢迎使用年轮",
+			"article_link": "https://www.jianshu.com/p/615ba3c1d9c3",
+			"image_link": "https://raw.githubusercontent.com/yeseni-today/mematom-resources/master/images/logo.png"
 	}
+		
 	
 ]
